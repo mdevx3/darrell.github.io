@@ -73,4 +73,8 @@
     * **Technologies Used (Back-end):** Python, NumPy (array modifications), TensorFlow (deep-learning frameworks, training, inference, tensor math), Scikit-learn (split and train dataset), Mediapipe (real-time hand landmark detection), OpenCV (camera frame grabbing, image manipulation, displaying live footage and predictions). 
     * **🔗 Link:** [View Project Files on Google Drive](https://drive.google.com/drive/folders/1EgQaPcSx_NtoFmGpBwcFHAexBaZ-gXDq) 
 
-
+4. **CUSTOMER HEALTHCARE COST PREDICTION MODEL**
+   * **Description:** This project focused on for data cleaning of an insurance dataset which contains 1,338 rows of customer information, preprocessing, and building a predictive machine learning model using scikit-learn.
+   * **Key Findings:**
+      * Determined the model's mean squared error. ($36,431,001.52)
+      * Found the model's mean R-squared.   
