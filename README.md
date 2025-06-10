@@ -32,16 +32,16 @@
 
 ## Organizational Experience 💼
 
-* **Sampoerna Youth Investment Club** || Member of Publications and Documentations Division (_August 2024 - May 2025_)
+* **Sampoerna Youth Investment Club** as Member of Publications and Documentations Division (_August 2024 - May 2025_)
     * Responsible for documentation throughout club events. 
     * Conduct video editing for marketing videos and event recordings (Instagram, TikTok). 
-* **TEDxSampoernaUniversity** || Member of Publications and Documentations Division (_2024_)
-    * Responsible for documentation of the event’s press conference and video-recording the main event. 
+* **TEDxSampoernaUniversity** as Member of Publications and Documentations Division (_2024_)
+    * Responsible for documenting the event’s press conference and video-recording the main event. 
     * Worked with cross-functional teams (e.g., marketing) to align documentation with organizational goals. 
     * Conducted video editing for marketing videos and main event recordings for YouTube. 
-* **Career Month** || Member of Content Planning Division (_October 2024_) 
+* **Career Month** as Member of Content Planning Division (_October 2024_) 
     * Responsible for brainstorming content ideas for social media marketing. 
-* **FETO Volunteer Organizer** || (_March 2023_) 
+* **FETO Volunteer Organizer** (_March 2023_) 
     * Mainly worked on logistical backstage. 
     * Responsible for setting up stage and backstage logistics (chair setup, lunch management). 
 
